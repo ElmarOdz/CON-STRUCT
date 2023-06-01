@@ -76,6 +76,6 @@ PlanGrid has been acquired by Autodesk, a major player in the construction softw
 The CON-STRUCT web app will be a game-changer for businesses and skilled workers in the construction industry. By creating a platform that connects businesses with skilled workers and contractors, the app will facilitate project collaborations and job opportunities. With its unique features and marketing strategy, CON-STRUCT has the potential to become a leading social media platform in the construction industry.
 
   ## AUTHORS
-DORINE KHAINZA - Development, Research and Documentation
+DORINE KHAINZA - Development, Research and Documentation https://www.linkedin.com/in/dorine-khainza-1b7a68b9
 
-MARIE-ELEN ODIMBA KOMBE - Development, Analysis and Documentation
+MARIE-ELEN ODIMBA KOMBE - Development, Analysis and Documentation  https://www.linkedin.com/in/marie-elen-00562070/
