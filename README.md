@@ -1,22 +1,28 @@
 # CON-STRUCT
 
-                                            # CON-STRUCT
+                                              CON-STRUCT
                                             Bring together
-      ## THE TEAM
+       THE TEAM
     DORINE KHAINZA - Development, Research and Documentation
     MARIE-ELEN ODIMBA KOMBE - Development, Analysis and Documentation
     
-The above roles have been decided due to student strengths and capabilities in the particular areas of execution.
-TECHNOLOGIES
+    The above roles have been decided due to student strengths and capabilities in the particular areas of execution.
+
+  ## TECHNOLOGIES
+
 Inorder to execute this project, we shall implement and use the following;
-Front-end: HTML, CSS, JavaScript, Bootstrap, jQuery, React
-Back-end: Node.js, Express.js
-Database: Firebase
-This technology was chosen because it will be quick and easy to develop the app seamlessly and smoothly. It is also;
-Cost effective
-User friendly
-Cross-platform compatible
-INSTALLATION AND SETUP
+
+- Front-end: HTML, CSS, JavaScript, Bootstrap, jQuery, React
+- Back-end: Node.js, Express.js
+- Database: Firebase
+
+These technologies were chosen because it will be quick and easy to develop the app seamlessly and smoothly. It is also;
+
+-Cost effective
+-User friendly
+-Cross-platform compatible
+
+  ##INSTALLATION AND SETUP
 To run this web application on your local machine, follow the steps below:
 Clone this repository to your local machine.
 Install Node.js and MongoDB on your machine.
