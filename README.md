@@ -6,7 +6,9 @@
     DORINE KHAINZA - Development, Research and Documentation
     MARIE-ELEN ODIMBA KOMBE - Development, Analysis and Documentation
     
-    The above roles have been decided due to student strengths and capabilities in the particular areas of execution.
+    https://drive.google.com/file/d/1KC7t5VPgHqbKSvqJut3n50A156dVnD4O/view?usp=drive_link
+    
+The above roles have been decided due to student strengths and capabilities in the particular areas of execution.
 
   ## TECHNOLOGIES
 
@@ -58,23 +60,23 @@ Users can stay up-to-date with the latest construction news through the platform
   
 1. PROCORE: Procore is a cloud-based construction management software that offers a range of features, including project management, financial management, and collaboration tools. It also includes a marketplace for third-party apps and integrations.
 
-      Similarities:
+        Similarities:
 - Both offer mobile apps for in the construction Industry
 - Both offer integrations with other software tools.
 
-      Differences:
+        Differences:
 - CON-STRUCT also offers a job marketplace for skilled workers and businesses to connect, whereas Procore does not have this feature.
 - CON-STRUCT provides training and certification courses for skilled workers, whereas Procore does not have this feature.
 - Procore is a dedicated project management software, whereas CON-STRUCT is a business and employment-focused social media platform for the construction industry
 
 2. PLANGRID: PlanGrid offers a feature called Labor Management, which allows contractors to manage their labour resources and track progress on their projects. The platform also integrates with several other construction labour management tools, such as WorkMax and TSheets
 
-      Similarities:
+        Similarities:
 - Both provide project management features for the construction industry.
 - Both offer mobile apps for on-site management.
 - Both offer integrations with other software tools.
 
-      Differences:
+        Differences:
 - CON-STRUCT also offers a job marketplace for skilled workers and businesses to connect, whereas PlanGrid does not have this feature.
 - CON-STRUCT provides training and certification courses for skilled workers, whereas PlanGrid does not have this feature.
 - PlanGrid offers more specialized construction-related features such as RFIs (Request for Information) and punch lists, whereas CON-STRUCT can offer a wider range of business and employment-focused features, such as skill assessments and job search tools.
