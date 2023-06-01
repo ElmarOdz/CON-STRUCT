@@ -6,7 +6,6 @@
     DORINE KHAINZA - Development, Research and Documentation
     MARIE-ELEN ODIMBA KOMBE - Development, Analysis and Documentation
     
-    https://drive.google.com/file/d/1KC7t5VPgHqbKSvqJut3n50A156dVnD4O/view?usp=drive_link
     
 The above roles have been decided due to student strengths and capabilities in the particular areas of execution.
 
