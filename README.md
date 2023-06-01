@@ -58,6 +58,7 @@ Users can stay up-to-date with the latest construction news through the platform
 - CON-STRUCT provides training and certification courses for skilled workers, whereas Procore does not have this feature.
 - Procore is a dedicated project management software, whereas CON-STRUCT is a business and employment-focused social media platform for the construction industry
 
+
 2. PLANGRID: PlanGrid offers a feature called Labor Management, which allows contractors to manage their labour resources and track progress on their projects. The platform also integrates with several other construction labour management tools, such as WorkMax and TSheets
 
         Similarities:
