@@ -23,17 +23,6 @@ These technologies were chosen because it will be quick and easy to develop the 
 - User friendly
 - Cross-platform compatible
 
-  ## INSTALLATION AND SETUP
-
-To run this web application on your local machine, follow the steps below:
-
-- Clone this repository to your local machine.
-- Install Node.js and MongoDB on your machine.
-- Open a terminal and navigate to the project directory.
-- Run npm install to install the required dependencies.
-- Run npm start to start the application.
-- Open your web browser and navigate to http://localhost:3000.
-
   ## THE CHALLENGE
   
 The construction industry is a critical component of the global economy, employing millions of people worldwide. The industry has been known to have unique challenges that require specialized skills, resources, and tools. However, many businesses and workers in the construction industry face difficulties in finding skilled workers, contractors, and business opportunities. To address these challenges, we propose the development of an app called CON-STRUCT, a business and employment-focused social media platform that works through websites and mobile apps
