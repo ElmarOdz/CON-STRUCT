@@ -6,7 +6,7 @@
     DORINE KHAINZA - Development, Research and Documentation
     MARIE-ELEN ODIMBA KOMBE - Development, Analysis and Documentation
     
-    (https://con-struct.nicepage.io) [CON-STRUCT]
+   [CON-STRUCT](https://con-struct.nicepage.io)
     
 The above roles have been decided due to student strengths and capabilities in the particular areas of execution.
 
