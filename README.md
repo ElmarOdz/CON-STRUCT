@@ -1,6 +1,6 @@
 # CON-STRUCT
 
-![handyman-g3f45dc53f_1920-removebg-preview](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/c8fcd780-ac25-4f59-bb00-2a4ff0449945)
+![Screenshot_20230604_210117_Chrome](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/18beef01-a439-4275-8067-974209647fe9)
 
                                               CON-STRUCT
                                             Bring together
