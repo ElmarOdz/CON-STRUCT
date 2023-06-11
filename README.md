@@ -19,7 +19,7 @@ These technologies were chosen because it will be quick and easy to develop the 
 
   ## THE CHALLENGE
   
-The construction industry is a critical component of the global economy, employing millions of people worldwide. The industry has been known to have unique challenges that require specialized skills, resources, and tools. However, many businesses and workers in the construction industry face difficulties in finding skilled workers, contractors, and business opportunities. To address these challenges, we propose the development of an app called CON-STRUCT, a business and employment-focused social media platform that works through websites and mobile apps
+The construction industry is a critical component of the global economy, employing millions of people worldwide. The industry has been known to have unique challenges that require specialized skills, resources, and tools. However, many businesses and workers in the construction industry face difficulties in finding skilled workers, contractors, and business opportunities. To address these challenges, we propose the development of an app called CON-STRUCT, a business and employment-focused social market platform that works through websites and mobile apps
 
     Objective:
     
