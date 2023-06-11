@@ -68,10 +68,18 @@ Users can connect with one another on the platform to build their professional n
 - Construction News feed:
 Users can stay up-to-date with the latest construction news through the platform's newsfeed feature. They can filter the news by category and view the articles that interest them.
 
+![News Feed](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/b6190d2a-cae6-458d-9601-2f612b00497d)
+
+- Trainings:
+The CON-STRUCT web app allows users to access the training courses and track their progress. The LMS can also provide features like quizzes, assignments, and discussion forums to enhance the learning experience.
+
+![Training](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/87aefa2c-c9e7-4c89-9045-c86b89687787)
 
   ## EXISTING SOLUTIONS
-  
+
 1. PROCORE: Procore is a cloud-based construction management software that offers a range of features, including project management, financial management, and collaboration tools. It also includes a marketplace for third-party apps and integrations.
+
+![Procore](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/596f5c87-58c5-43f8-8a45-865ffcf70659)
 
         Similarities:
 - Both offer mobile apps for in the construction Industry
@@ -85,6 +93,8 @@ Users can stay up-to-date with the latest construction news through the platform
 
 2. PLANGRID: PlanGrid offers a feature called Labor Management, which allows contractors to manage their labour resources and track progress on their projects. The platform also integrates with several other construction labour management tools, such as WorkMax and TSheets
 
+![Plangrid](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/319c18f9-22b6-4776-a21a-665f951a690c)
+
         Similarities:
 - Both provide project management features for the construction industry.
 - Both offer mobile apps for on-site management.
@@ -96,11 +106,15 @@ Users can stay up-to-date with the latest construction news through the platform
 - PlanGrid offers more specialized construction-related features such as RFIs (Request for Information) and punch lists, whereas CON-STRUCT can offer a wider range of business and employment-focused features, such as skill assessments and job search tools.
 PlanGrid has been acquired by Autodesk, a major player in the construction software industry, whereas CON-STRUCT is a hypothetical platform at this stage.
 
+## Challenges Faced as a Team
+- Living in different time zone proved a challenge 
+- Linking specific forms to the Database
+- Internet Challenges as it was occassionally unstable
+
   ## CONCLUSION:
 The CON-STRUCT web app will be a game-changer for businesses and skilled workers in the construction industry. By creating a platform that connects businesses with skilled workers and contractors, the app will facilitate project collaborations and job opportunities. With its unique features and marketing strategy, CON-STRUCT has the potential to become a leading social market platform in and for the construction industry.
 
   ## AUTHORS
   
 DORINE KHAINZA - Development, Research and Documentation https://www.linkedin.com/in/dorine-khainza-1b7a68b9
-
 MARIE-ELEN ODIMBA KOMBE - Development, Analysis and Documentation  https://www.linkedin.com/in/marie-elen-00562070/
