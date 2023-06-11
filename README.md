@@ -1,13 +1,8 @@
 # CON-STRUCT
 
 ![Landing Page](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/e014d849-bfc8-4e72-95e8-c66f76281b30)
-
-                                                       CON-STRUCT
-                                                     Bring together
  
 [CON-STRUCT](https://con-struct.nicepage.io)
-
-
 
   ## TECHNOLOGIES
 
