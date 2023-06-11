@@ -1,23 +1,20 @@
 # CON-STRUCT
 
-![Screenshot_20230609_202429_Chrome](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/58b11dc4-30ce-426c-bde2-f3cc0805e457)
+![Landing Page](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/e014d849-bfc8-4e72-95e8-c66f76281b30)
 
-                                              CON-STRUCT
-                                            Bring together
-       THE TEAM
-    DORINE KHAINZA - Development, Research and Documentation
-    MARIE-ELEN ODIMBA KOMBE - Development, Analysis and Documentation
+                                                       CON-STRUCT
+                                                     Bring together
  
-The above roles have been decided due to student strengths and capabilities in the particular areas of execution.
-
 [CON-STRUCT](https://con-struct.nicepage.io)
+
+
 
   ## TECHNOLOGIES
 
 Inorder to execute this project, we shall implement and use the following;
 
 - Front-end: HTML, CSS, JavaScript, jQuery, React
-- Back-end: Firebase Database
+- Back-end: Firebase Database, Adalo
 
 These technologies were chosen because it will be quick and easy to develop the app seamlessly and smoothly. It is also;
 
@@ -37,11 +34,37 @@ The primary objective of the CON-STRUCT app is to create a platform where busine
     
 - User Registration and Login:
 Users can create an account on the platform by registering with their email address and password. Once registered, they can log in to the platform to access its features.
+
+![SignUp](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/ae90f686-5a0f-4fd9-bf6e-48bda3959562)
+![SignIn](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/8a754988-99f4-408a-aa2d-6f6f79f8efb2)
+
+![Worker Reg Form](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/370d293b-f803-4604-9c96-128489a32388)
+
 - Profile Creation and Management:
 Users can create and manage their profiles on the platform. They can add their personal information, work experience, and skills to their profile.
+
+![Profile](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/890471d0-b1a4-476d-9a28-25def79811ec)
+
 - Job Posting and Application:
 Employers can post job opportunities on the platform, and job seekers can apply for those jobs through the platform.
-Professional Networking: Users can connect with one another on the platform to build their professional networks. They can send and receive messages and connect with other users.
+
+      Worker Home Page
+
+![Worker Home (JB)](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/00c64f0e-fb36-42b5-abdf-e140ffff4625)
+
+      Job Board
+
+![Job Board](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/ca7632ee-262a-4669-928b-d1933571522e)
+
+      Job Post in Detail
+
+![Job Post](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/3bef73be-51ca-40f2-a083-4042248b53df)
+
+- Professional Networking:
+Users can connect with one another on the platform to build their professional networks. They can send and receive messages and connect with other users.
+
+![Networking](https://github.com/ElmarOdz/CON-STRUCT/assets/110916781/d5420c7c-623a-4308-a44f-e3cba3fec108)
+
 - Construction News feed:
 Users can stay up-to-date with the latest construction news through the platform's newsfeed feature. They can filter the news by category and view the articles that interest them.
 
@@ -74,7 +97,7 @@ Users can stay up-to-date with the latest construction news through the platform
 PlanGrid has been acquired by Autodesk, a major player in the construction software industry, whereas CON-STRUCT is a hypothetical platform at this stage.
 
   ## CONCLUSION:
-The CON-STRUCT web app will be a game-changer for businesses and skilled workers in the construction industry. By creating a platform that connects businesses with skilled workers and contractors, the app will facilitate project collaborations and job opportunities. With its unique features and marketing strategy, CON-STRUCT has the potential to become a leading social media platform in the construction industry.
+The CON-STRUCT web app will be a game-changer for businesses and skilled workers in the construction industry. By creating a platform that connects businesses with skilled workers and contractors, the app will facilitate project collaborations and job opportunities. With its unique features and marketing strategy, CON-STRUCT has the potential to become a leading social market platform in and for the construction industry.
 
   ## AUTHORS
   
