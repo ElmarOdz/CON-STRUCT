@@ -117,4 +117,5 @@ The CON-STRUCT web app will be a game-changer for businesses and skilled workers
   ## AUTHORS
   
 DORINE KHAINZA - Development, Research and Documentation https://www.linkedin.com/in/dorine-khainza-1b7a68b9
+
 MARIE-ELEN ODIMBA KOMBE - Development, Analysis and Documentation  https://www.linkedin.com/in/marie-elen-00562070/
