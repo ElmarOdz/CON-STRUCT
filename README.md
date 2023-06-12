@@ -4,6 +4,10 @@
  
 [CON-STRUCT](https://con-struct.nicepage.io)
 
+https://medium.com/@mlexie92/con-struct-web-application-66aa63359614
+
+https://www.linkedin.com/in/marie-elen-00562070/
+
   ## TECHNOLOGIES
 
 Inorder to execute this project, we shall implement and use the following;
